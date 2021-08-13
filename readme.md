@@ -1,5 +1,5 @@
 # Description
-A script/executable to aid running your program from the command line. This is basically `make` but it's `run`.
+A script/executable to aid running your program from the command line. This is like `make` but it's `run`.
 # Usage
 Create a file called `runfile` containing the command to run you program, whether it's a script or an executable, including command line parameters and whatnot. Then call 
 ```
